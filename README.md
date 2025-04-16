@@ -31,5 +31,6 @@
   </a>
 </div> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/EduardoFerreiraa/EduardoFerreiraa/output/snake.svg" alt="Snake animation" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
