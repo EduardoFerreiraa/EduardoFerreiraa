@@ -26,10 +26,10 @@
   <a href="https://instagram.com/seu-instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="eduardoferreiraalmeida20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/[seu-linkedin](https://www.linkedin.com/in/eduardo-ferreira-011a9435b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
