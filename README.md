@@ -31,5 +31,5 @@
   </a>
 </div> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+![Snake animation](https://github.com/EduardoFerreiraa/EduardoFerreiraa/blob/output/github-contribution-grid-snake.svg)
 
