@@ -1,25 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Eduardo%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&width=435&lines=Olá!+Eu+sou+o+Eduardo+Ferreira;Estudante+de+Java%2C+HTML+e+CSS;Sempre+em+busca+de+evolução!" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Eduardo%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-## Estou aprendendo:
-<div style="display: flex; align-items: center;">
-  <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </div>
+<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=java,html,css,vscode,eclipse,github,git" />
 </div>
 
-## 📊 Estatísticas do GitHub
 
-<div align="left">
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFerreiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFerreiraa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</p>
 
-## Contatos:
 
-<div align="left">
+<h2 align="center"> Contatos</h2>
+<br>
+<p align="center">
   <a href="https://instagram.com/seu-instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -29,8 +29,12 @@
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div> 
+</p>
 
-<img src="https://raw.githubusercontent.com/EduardoFerreiraa/EduardoFerreiraa/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EduardoFerreiraa/EduardoFerreiraa/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</p>
