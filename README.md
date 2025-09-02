@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Eduardo%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&width=435&lines=Olá!+Eu+sou+Eduardo+Ferreira;Estudante+de+Java%2C+HTML+e+CSS;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&width=435&lines=Olá!+Eu+sou+Eduardo+Ferreira;Estudante+de+ADS;" />
 </p>
 
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
