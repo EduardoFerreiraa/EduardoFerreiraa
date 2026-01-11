@@ -1,4 +1,4 @@
-<div>
+<div style="color: purple;">
   <h1>Hey there! 👋</h1>
 </div>
 
@@ -12,7 +12,7 @@
     <li>GitHub</li>
     <li>Vs code</li>
     <li>Algorithms</li>
-    <li>Basic Java</li>
+    <li>Java intermediate</li>
   </ul>
 </div>
 
