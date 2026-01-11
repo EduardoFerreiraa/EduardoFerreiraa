@@ -5,8 +5,7 @@
 <div>
   <p>My name is Eduardo, I'm from Uberlândia/MG, I'm 19 years old, I'm currently studying Systems Analysis and Development.</p>
   <p>I really like technology, web development, I'm always studying and trying to get better every day. I like to carry out large or small projects</p>
-  📚
-  <p>I currently have knowledge of:</p>
+  <p>📚 I currently have knowledge of:</p>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
