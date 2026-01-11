@@ -1,5 +1,5 @@
 <div>
-  <h1>Hey there!</h1>
+  <h1 style="color: purple;">Hey there!</h1>
 </div>
 
 <div>
@@ -15,6 +15,8 @@
     <li>Basic Java</li>
   </ul>
 </div>
+
+<hr>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EduardoFerreiraa/EduardoFerreiraa/output/snake.svg" alt="Snake animation" />
