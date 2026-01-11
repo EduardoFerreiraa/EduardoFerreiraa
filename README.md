@@ -5,7 +5,16 @@
 <div>
   <p>My name is Eduardo, I'm from Uberlândia/MG, I'm 19 years old, I'm currently studying Systems Analysis and Development.</p>
   <p>I really like technology, web development, I'm always studying and trying to get better every day. I like to carry out large or small projects</p>
-  <p>I currently have knowledge of html5, css3, basic Java, algorithms, programming logic, github and vs code</p>
+  📚
+  <p>I currently have knowledge of:</p>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>GitHub</li>
+    <li>Vs code</li>
+    <li>Algorithms</li>
+    <li>Basic Java</li>
+  </ul>
 </div>
 
 <p align="center">
