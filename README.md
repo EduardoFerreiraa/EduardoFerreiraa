@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&animation=fadeIn" />
+
 **`Desenvolvedor Full-stack`**
 <div>
   <h1>Hey there! 👋</h1>
