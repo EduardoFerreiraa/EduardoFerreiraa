@@ -14,13 +14,12 @@
 </div>
 
 ### 📊 GitHub Status
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardoferreiraa&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=dark" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardoferreiraa&theme=dark" 
+       style="width: 240px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=dark" 
+       style="width: 500px;"/>
+</div>
 
 
 <p align="center">
