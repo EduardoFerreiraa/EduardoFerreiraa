@@ -13,8 +13,10 @@
   </p>
 </div>
 
-## 📊 GitHub Status
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=dark)
+### 📊 GitHub Status
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=dark" />
+</p>
 
 
 <p align="center">
