@@ -21,6 +21,9 @@
 
 ### 📊 Estatísticas 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoferreiraa&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoferreiraa)](https://github.com/eduardoferreiraa/github-readme-stats)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/EduardoFerreiraa/EduardoFerreiraa/output/snake.svg" alt="Snake animation" />
 </p>
