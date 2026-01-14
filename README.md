@@ -10,7 +10,7 @@
   <p>🎓 I really like technology, web development, I'm always studying and trying to get better every day. I like to carry out large or small projects</p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,java,eclipse,github,idea" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,java,github" />
     </a>
   </p>
 </div>
