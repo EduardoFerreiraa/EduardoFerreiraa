@@ -14,7 +14,7 @@
 </div>
 
 ## 📊 GitHub Status
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=default)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoferreiraa&theme=dark)
 
 
 <p align="center">
