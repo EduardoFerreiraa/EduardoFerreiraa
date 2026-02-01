@@ -7,7 +7,7 @@
 
 <div>
   <p>Meu nome é Eduardo, moro em Uberlândia/MG, eu tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR EAD</p>
-  <p>🎓 Eu gosto bastante de programação, a minha experiência com programação foi no canal do CursoemVideo, eu aprendi bastante coisas com o Gustavo Guanabara! E também sou muito apaixonado por jogos. Eu já estudei java no canal do MaratonaEmjava do DevDojo no youtube e HTML E CSS do Guanabara. No momento estou cursando em Front-end Full Stack na Udemy, pretendo esse ano criar muitos projetos com esse conhecimento que estou adquirindo!</p>
+  <p>🎓 Eu gosto bastante de programação, a minha experiência com programação foi no canal do CursoemVideo, eu aprendi bastante coisas com o Gustavo Guanabara! No momento estou cursando em Front-end Full Stack na Udemy, pretendo esse ano criar muitos projetos com esse conhecimento que estou adquirindo!</p>
 </div>
 
 ## 🛠️ Linguagens e Ferramentas
