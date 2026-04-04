@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <p>Meu nome é Eduardo, moro em Uberlândia/MG, eu tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR EAD e FULL-STACK WEB da Udemy</p>
+  <p>Meu nome é Eduardo, moro em Uberlândia/MG, eu tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR EAD e Full-Stack Web da Udemy</p>
   <p>🎓</p>
 </div>
 
