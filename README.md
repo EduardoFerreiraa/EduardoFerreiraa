@@ -6,7 +6,13 @@
 </div>
 
 <div>
-  <p>Meu nome é Eduardo, moro em Uberlândia/MG, eu tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR EAD e Full-Stack Web da Udemy</p>
+  <p>
+    Meu nome é Eduardo, moro em Uberlândia/MG e curso
+  Análise e Desenvolvimento de Sistemas pela UNICESUMAR,
+  além de Full Stack Web pela Udemy. Estou me dedicando
+  ao desenvolvimento de aplicações web e aprimorando
+  minhas habilidades em tecnologias front-end e back-end.
+  </p>
   <p>🎓</p>
 </div>
 
