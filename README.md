@@ -36,6 +36,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Projetos em destaque
+
+<a href="https://github.com/EduardoFerreiraa/sistema-gestao-clientes">
+  <img alt="sistema-gestao-clientes" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFerreiraa&repo=sistema-gestao-clientes&theme=github_dark&hide_border=true&bg_color=161b22">
+</a>
+<a href="https://github.com/EduardoFerreiraa/login-project">
+  <img alt="login-project" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFerreiraa&repo=login-project&theme=github_dark&hide_border=true&bg_color=161b22">
+</a>
+
+<a href="https://github.com/EduardoFerreiraa/lista-tarefas">
+  <img alt="lista-tarefas" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFerreiraa&repo=lista-tarefas&theme=github_dark&hide_border=true&bg_color=161b22">
+</a>
+<a href="https://github.com/EduardoFerreiraa/formulario-validacao">
+  <img alt="formulario-validacao" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFerreiraa&repo=formulario-validacao&theme=github_dark&hide_border=true&bg_color=161b22">
+</a>
+
 ## Atividade no GitHub
 
 <p>
